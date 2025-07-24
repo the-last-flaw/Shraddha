@@ -9,15 +9,15 @@ export const mockLetters = [
     icon: "🤗",
     hasAudio: true,
     hasVideo: false,
-    content: `I know right now everything feels heavy, and your heart might be aching in ways that words can't quite capture. But I want you to know that it's okay to feel sad sometimes. Your emotions are valid, and I'm here with you, even when we're apart.
+    content: `My beloved, I know your heart feels heavy right now, as if the weight of the world has settled upon your shoulders. In this moment of sadness, I want you to know that your feelings are sacred and valid, and that love surrounds you even in the darkness.
 
-Remember how we talked about how flowers need both sunshine and rain to grow? You're like the most beautiful flower in my garden, and even though this is your rainy season, it's helping you grow stronger and more resilient.
+Just as flowers need both sunshine and rain to bloom, your tender heart needs both joy and sorrow to grow into its fullest beauty. This sadness you feel is not your enemy—it is proof of your capacity to love deeply, to care profoundly, to live with an open heart.
 
-Think about that time when you were upset about your presentation at work, and how proud I was when you bounced back even stronger? You have this incredible ability to transform your pain into wisdom, and I admire that so much about you.
+You possess an extraordinary gift: the ability to transform pain into wisdom, to let suffering teach you compassion, to emerge from darkness with greater light within you. This strength lives in your very essence, waiting to guide you through.
 
-Close your eyes and imagine my arms wrapped around you, holding you close. Feel my hand stroking your hair the way you love. I'm whispering to you that this feeling will pass, that tomorrow holds new possibilities, and that you are loved beyond measure.
+Close your eyes and feel my love surrounding you like warm sunlight. Imagine yourself held by invisible arms of tenderness, supported by the eternal bond that connects our souls. This feeling will pass, like clouds moving across the sky, but my love for you remains constant as the stars.
 
-You're not alone in this, my darling. We're a team, and together we can weather any storm.`
+You are never alone, my darling. In every moment, you are cherished beyond measure.`
   },
   {
     id: "anxious-1",
