@@ -82,7 +82,7 @@ const LetterPage = () => {
                 
                 <div className="letter-signature">
                   <p className="signature-text">Forever yours,</p>
-                  <p className="signature-name">Your loving partner 💕</p>
+                  <p className="signature-name">dev 💕</p>
                 </div>
               </div>
               
