@@ -1,5 +1,14 @@
 {
   "appId": "com.openwhen.loveapp",
   "appName": "Open When",
-  "webDir": "build"
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": "debug.keystore",
+      "keystoreAlias": "androiddebugkey"
+    }
+  }
 }
