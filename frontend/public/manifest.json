@@ -1,0 +1,25 @@
+{
+  "name": "Open When - A Timeless Box of Love",
+  "short_name": "Open When",
+  "description": "A romantic app filled with love letters for every moment",
+  "theme_color": "#daa520",
+  "background_color": "#fefdf8",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
